@@ -25,6 +25,7 @@ public class Partida {
 
     }
     public void comprobarGanadorPartida() {
+        System.out.println("Hola");
     }
 
 }
